@@ -9,12 +9,25 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@reduxjs/toolkit": "^1.9.5",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^14.0.0",
     "@types/node": "20.1.2",
     "@types/react": "18.2.6",
     "@types/react-dom": "18.2.4",
+    "bcrypt": "^5.1.0",
+    "framer-motion": "^10.12.10",
+    "jsonwebtoken": "^9.0.0",
+    "mongodb": "^5.4.0",
+    "mongoose": "^7.1.1",
     "next": "13.4.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-hook-form": "^7.43.9",
+    "react-redux": "^8.0.5",
+    "redux-persist": "^6.0.0",
+    "styled-components": "^6.0.0-rc.1",
+    "swiper": "^9.3.1",
     "typescript": "5.0.4"
   }
 }
